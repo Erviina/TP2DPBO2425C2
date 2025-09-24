@@ -1,0 +1,16 @@
+maukan 1 :
+y
+T05
+1
+
+masukan 2 :
+y
+T07
+Google TV
+8000000
+TCL
+TV
+9
+50 inch
+4K
+QLED

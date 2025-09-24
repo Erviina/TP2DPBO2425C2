@@ -1,0 +1,16 @@
+masukan 1:
+y
+T06
+Smart TV
+10000000
+Shapp
+TV
+17
+50 inch
+4K
+QLED
+
+masukan 2:
+y
+T04
+2

@@ -1,0 +1,16 @@
+masukan 1 :
+y
+T02
+2
+
+masukan 2 :
+y
+T06
+Android TV UP
+9000000
+AQUA
+TV
+5
+65 inch
+4K
+QLED
